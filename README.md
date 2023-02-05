@@ -21,7 +21,7 @@ In total, the manufacturing lots meet the specification with a total variance of
 When comparing the PSI for all manufacturing lots against the mean PSI of the population, there was no significance in the data since the p-value was greater than 0.05.
 
 <img width="430" alt="Screen Shot 2023-02-05 at 11 02 46 AM" src="https://user-images.githubusercontent.com/115126898/216830409-6aaafece-8469-4b11-a699-d8993dc4c227.png">
-However, when separated into lots, lots 1 and 2 were not statistically significant, but lot 3 was with a p-value of 0.04. This means that PSI of the vehicles from lot 3 varies strays away from the population mean.
+However, when separated into lots, lots 1 and 2 were not statistically significant, but lot 3 was with a p-value of 0.04. This means that PSI of the vehicles from lot 3 strays away from the population mean.
 
 
 ## Part 4 - Study Design: MechaCar vs Competition
